@@ -1,0 +1,32 @@
+{
+  "name": "shlapi",
+  "version": "1.0.0",
+  "description": "Control all your lights using shlapi or SmartHomeLightsAPI ",
+  "main": "shl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/shlapi.git"
+  },
+  "keywords": [
+    "smarthome",
+    "smart",
+    "home",
+    "shl",
+    "shlapi",
+    "lights",
+    "light",
+    "lamp",
+    "automation",
+    "home-automation",
+    "api"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/shlapi/issues"
+  },
+  "homepage": "https://github.com/greencoder001/shlapi#readme"
+}
