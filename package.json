@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/greencoder001/shlapi/issues"
   },
-  "homepage": "https://github.com/greencoder001/shlapi#readme"
+  "homepage": "https://github.com/greencoder001/shlapi#readme",
+  "dependencies": {
+    "hue": "^0.2.5"
+  }
 }
